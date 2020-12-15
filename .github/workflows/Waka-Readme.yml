@@ -1,6 +1,7 @@
 name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
     # Runs at 00:00 UTC
     - cron: '05 0 * * *'
