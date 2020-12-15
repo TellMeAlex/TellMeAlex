@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Alejandro](https://alexdrago.dev) 👨‍💻
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alejandro](https://alexdrago.dev) 👨‍💻
 
 
 <p align="center">
@@ -23,59 +23,9 @@
 
 ---
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 95.37 % as on ⏰ 15-12-2020.
+⏳ **Year Progress** { ████████████████████████████▁▁ } 95.48 % as on ⏰ 15-12-2020.
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    58 commits     ████████░░░░░░░░░░░░░░░░░   33.14% 
-🌆 Daytime    66 commits     █████████░░░░░░░░░░░░░░░░   37.71% 
-🌃 Evening    43 commits     ██████░░░░░░░░░░░░░░░░░░░   24.57% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.57%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-Tuesday      33 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
-Wednesday    35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Thursday     45 commits     ██████░░░░░░░░░░░░░░░░░░░   25.71% 
-Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-Saturday     5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-JavaScript               37 mins             █████████████████░░░░░░░░   71.04% 
-YAML                     15 mins             ███████░░░░░░░░░░░░░░░░░░   28.92% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75% 
-PHP                      5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 
@@ -86,7 +36,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.mehagomayor.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.MeHagoMayor.com-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.alexdrago.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.alexdrago.dev-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/alejandro-de-la-fuente/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@AlejadnroDeLaFuente-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:llamamealex@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-llamamealex@gmail.com-blue?style=flat&logo=gmail"></a>
 
