@@ -15,7 +15,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Alejandro](https://alexdrago.dev) 👨‍💻
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alejandro](https://alexdrago.dev) 👨‍💻
 
 
 <p align="center">
@@ -53,7 +53,7 @@ const readme = `\
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.mehagomayor.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.MeHagoMayor.com-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.alexdrago.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.alexdrago.dev-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/alejandro-de-la-fuente/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@AlejadnroDeLaFuente-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:llamamealex@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-llamamealex@gmail.com-blue?style=flat&logo=gmail"></a>
 `
