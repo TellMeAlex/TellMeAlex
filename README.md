@@ -3,8 +3,11 @@
 
 <p align="center">
  <img  src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="center" alt="working" />
- [[https://spotify-github-profile.vercel.app/api/view.svg?uid=alexdrago&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=alexdrago&cover_image=true&theme=natemoo-re)]]
+
  </p>
+
+
+
 <h2 align="center">Programming Languages 🌐</h2>
 
 
@@ -75,6 +78,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+## 🎶 Lately I'm listening:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alexdrago&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=alexdrago&redirect=true)
 
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
