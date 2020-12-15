@@ -5,7 +5,8 @@
  <img  src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="center" alt="working" />
 </p>
 <h2 align="center">Programming Languages 🌐</h2>
----
+
+
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="Html" width="55" height="55"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/> 
@@ -17,7 +18,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="GIT" width="45" height="40"/> 
 </p>
 
 ---
@@ -25,35 +26,6 @@
 ⏳ **Year Progress** { ████████████████████████████▁▁ } 95.37 % as on ⏰ 15-12-2020.
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    58 commits     ████████░░░░░░░░░░░░░░░░░   33.14% 
-🌆 Daytime    66 commits     █████████░░░░░░░░░░░░░░░░   37.71% 
-🌃 Evening    43 commits     ██████░░░░░░░░░░░░░░░░░░░   24.57% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.57%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-Tuesday      33 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
-Wednesday    35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Thursday     45 commits     ██████░░░░░░░░░░░░░░░░░░░   25.71% 
-Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-Saturday     5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-
 <!--END_SECTION:waka-->
 
 
