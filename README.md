@@ -1,13 +1,10 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alejandro](https://alexdrago.dev) 👨‍💻
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alejandro](https://callmealex.dev) 👨‍💻
 
 
 <p align="center">
  <img  src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="center" alt="working" />
-
+ [[https://spotify-github-profile.vercel.app/api/view.svg?uid=alexdrago&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=alexdrago&cover_image=true&theme=natemoo-re)]]
  </p>
-
-
-
 <h2 align="center">Programming Languages 🌐</h2>
 
 
@@ -27,28 +24,28 @@
 
 ---
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 95.53 % as on ⏰ 15-12-2020.
+⏳ **Year Progress** { ████████████████████████████▁▁ } 95.63 % as on ⏰ 15-12-2020.
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    58 commits     ████████░░░░░░░░░░░░░░░░░   33.14% 
-🌆 Daytime    66 commits     █████████░░░░░░░░░░░░░░░░   37.71% 
-🌃 Evening    43 commits     ██████░░░░░░░░░░░░░░░░░░░   24.57% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.57%
+🌞 Morning    58 commits     ████████░░░░░░░░░░░░░░░░░   32.95% 
+🌆 Daytime    66 commits     █████████░░░░░░░░░░░░░░░░   37.5% 
+🌃 Evening    44 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-Tuesday      33 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
-Wednesday    35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Thursday     45 commits     ██████░░░░░░░░░░░░░░░░░░░   25.71% 
-Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-Saturday     5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+Monday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
+Tuesday      34 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.32% 
+Wednesday    35 commits     █████░░░░░░░░░░░░░░░░░░░░   19.89% 
+Thursday     45 commits     ██████░░░░░░░░░░░░░░░░░░░   25.57% 
+Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Saturday     5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
+Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.68%
 
 ```
 
@@ -66,11 +63,11 @@ Markdown                 0 secs              ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75% 
-PHP                      5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+JavaScript               8 repos             ███████████░░░░░░░░░░░░░░   47.06% 
+PHP                      5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
@@ -88,7 +85,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.alexdrago.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.alexdrago.dev-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/alejandro-de-la-fuente/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@AlejadnroDeLaFuente-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.tellmealex.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.alexdrago.dev-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/alejandro-de-la-fuente/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@AlejandroDeLaFuente-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:llamamealex@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-llamamealex@gmail.com-blue?style=flat&logo=gmail"></a>
 
