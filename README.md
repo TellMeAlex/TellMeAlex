@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="Html" width="55" height="55"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/html5/html5-original.svg" alt="Html" width="55" height="55"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="55" height="55"/> 
