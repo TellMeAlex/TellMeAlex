@@ -24,7 +24,7 @@
 
 ---
 
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.00 % as on ⏰ 6-2-2021.
+⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.14 % as on ⏰ 6-2-2021.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
