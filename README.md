@@ -9,21 +9,22 @@
 
 <p align="center">
 <img src="https://github.com/TellMeAlex/devicon/blob/master/icons/html5/html5-original.svg" alt="Html" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/symfony/symfony-original.svg" alt="symfony" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/composer/composer-original.svg" alt="composer" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="GIT" width="45" height="40"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="55" height="55"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/react/react-original.svg" alt="React" width="55" height="55"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="55" height="55"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="55" height="55"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/composer/composer-original.svg" alt="composer" width="55" height="55"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/git/git-original.svg" alt="GIT" width="45" height="40"/> 
 </p>
 
 ---
 
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.99 % as on ⏰ 6-2-2021.
+⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.00 % as on ⏰ 6-2-2021.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
