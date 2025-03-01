@@ -24,7 +24,7 @@
 
 ---
 
-⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.16 % as on ⏰ 1-3-2025.
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.44 % as on ⏰ 1-3-2025.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
