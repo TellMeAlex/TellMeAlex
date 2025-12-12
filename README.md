@@ -24,28 +24,16 @@
 
 ---
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 94.52 % as on ⏰ 11-12-2025.
+⏳ **Year Progress** { ████████████████████████████▁▁ } 94.79 % as on ⏰ 12-12-2025.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TellMeAlex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TellMeAlex&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TellMeAlex&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🎶 Lately I'm listening:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alexdrago&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=alexdrago&redirect=true)
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TellMeAlex&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 <h3> 🤝🏻 Connect with Me </h3>
