@@ -15,28 +15,47 @@ function generateProgressBar() {
 }
 
 const readme = `\
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alejandro](https://tellmealex.dev) 👨‍💻
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=500&lines=Hi+I'm+Alejandro+%F0%9F%91%8B;Full+Stack+Developer)](https://tellmealex.dev)
+
+**Full Stack Developer · Web Enthusiast**
+
+Building digital experiences, one line at a time.
+<br/>
+
+<a href="https://www.tellmealex.dev"><img src="https://img.shields.io/badge/Website-www.tellmealex.dev-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alejandro-de-la-fuente/"><img src="https://img.shields.io/badge/LinkedIn-Alejandro_De_La_Fuente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:llamamealex@gmail.com"><img src="https://img.shields.io/badge/Email-llamamealex@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+\`\`\`
+Frontend      HTML · CSS · JavaScript · React
+Backend       Node.js · PHP · Symfony · Java
+Database      MySQL
+DevOps        Docker · Git · Composer
+\`\`\`
+
+### 🌐 Languages & Tools
 
 <p align="center">
- <img  src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="center" alt="working" />
- </p>
-<h2 align="center">Programming Languages 🌐</h2>
-
-
-<p align="center">
-<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/html5/html5-original.svg" alt="Html" width="55" height="55"/> 
-<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/> 
-<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> 
-<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="55" height="55"/> 
-<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/react/react-original.svg" alt="React" width="55" height="55"/> 
-<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="55" height="55"/> 
-<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="55" height="55"/> 
-<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/composer/composer-original.svg" alt="composer" width="55" height="55"/> 
-<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
-<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
-<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
-<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/git/git-original.svg" alt="GIT" width="45" height="40"/> 
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/html5/html5-original.svg" alt="Html" width="50" height="50"/>
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="50" height="50"/>
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony" width="50" height="50"/>
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/composer/composer-original.svg" alt="Composer" width="50" height="50"/>
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="55"/>
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="45"/>
+<img src="https://github.com/TellMeAlex/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="45"/>
 </p>
 
 ---
@@ -46,18 +65,23 @@ const readme = `\
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 🎶 Lately I'm listening:
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TellMeAlex&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+<img src="https://streak-stats.demolab.com/?user=TellMeAlex&theme=github-dark-blue&hide_border=true" height="170" />
+
+</div>
+
+---
+
+### 🎶 Lately I'm listening
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alexdrago&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=alexdrago&redirect=true)
 
-### 😜Here's a Joke for you:
+### 😜 Here's a Joke for you
+
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.tellmealex.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.tellmealex.dev-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/alejandro-de-la-fuente/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@AlejandroDeLaFuente-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:llamamealex@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-llamamealex@gmail.com-blue?style=flat&logo=gmail"></a>
 `
 console.log(readme)
