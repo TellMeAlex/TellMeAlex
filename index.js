@@ -62,9 +62,6 @@ DevOps        Docker · Git · Composer
 
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 <div align="center">
@@ -73,15 +70,5 @@ DevOps        Docker · Git · Composer
 <img src="https://streak-stats.demolab.com/?user=TellMeAlex&theme=github-dark-blue&hide_border=true" height="170" />
 
 </div>
-
----
-
-### 🎶 Lately I'm listening
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alexdrago&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=alexdrago&redirect=true)
-
-### 😜 Here's a Joke for you
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 `
 console.log(readme)
